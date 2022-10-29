@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+numpy
+scikit-image >=0.16.1
+=======
+numpy
+scikit-image >=0.16.1
+>>>>>>> f86a9e74969a0fe2f82e57621836351c47e15d54
+matplotlib
